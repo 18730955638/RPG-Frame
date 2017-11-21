@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3391640390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e94521f8136c6463150632a68be7c78f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04f78424ce6b4cd414504523960f5b9b
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/GameAssets/Shader/Circular.shader
+Dependencies: []

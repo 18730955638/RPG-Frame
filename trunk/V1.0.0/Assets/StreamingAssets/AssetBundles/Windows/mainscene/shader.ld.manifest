@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1108251946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7f1a7b1b620e71535f7e22ae4adb688
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04f78424ce6b4cd414504523960f5b9b
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/MainScene/Shader/OutLine03.shader
+- Assets/Art/Scences/MainScene/Shader/OutLine02.shader
+- Assets/Art/Scences/MainScene/Shader/FlowLight.shader
+- Assets/Art/Scences/MainScene/Shader/LogoFlash.shader
+- Assets/Art/Scences/MainScene/Shader/MoveLightImage.shader
+- Assets/Art/Scences/MainScene/Shader/OutLine01.shader
+- Assets/Art/Scences/MainScene/Shader/Default Grey.shader
+Dependencies: []

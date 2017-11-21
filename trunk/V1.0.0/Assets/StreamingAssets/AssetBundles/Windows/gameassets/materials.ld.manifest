@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 503878170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b711cb05acc013fce8a4995f20dabfb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc983a3149e5fb03ce027e70c7a1a559
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/GameAssets/Materials/Star.mat
+- Assets/Art/Scences/GameAssets/Materials/def_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/Light3.mat
+- Assets/Art/Scences/GameAssets/Materials/Mi_hair_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/FloorCube2.mat
+- Assets/Art/Scences/GameAssets/Materials/Core4.mat
+- Assets/Art/Scences/GameAssets/Materials/MagicCircle.mat
+- Assets/Art/Scences/GameAssets/Materials/Correct.mat
+- Assets/Art/Scences/GameAssets/Materials/Yu_mouth_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/SkyBox.mat
+- Assets/Art/Scences/GameAssets/Materials/Circular.mat
+- Assets/Art/Scences/GameAssets/Materials/Medal.mat
+- Assets/Art/Scences/GameAssets/Materials/nol_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/Yu_hair_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/SB_nol_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/SB_def_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/WB_def_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/Core.mat
+- Assets/Art/Scences/GameAssets/Materials/WB_skin_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/Mi_mouth_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/SB_skin_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/FloorCube1.mat
+- Assets/Art/Scences/GameAssets/Materials/Core2.mat
+- Assets/Art/Scences/GameAssets/Materials/testM.mat
+- Assets/Art/Scences/GameAssets/Materials/Laser2.mat
+- Assets/Art/Scences/GameAssets/Materials/Ring.mat
+- Assets/Art/Scences/GameAssets/Materials/Target.mat
+- Assets/Art/Scences/GameAssets/Materials/Stage.mat
+- Assets/Art/Scences/GameAssets/Materials/Core3.mat
+- Assets/Art/Scences/GameAssets/Materials/WB_nol_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/Mi_skin_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/Yu_skin_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/skin_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/Blackbackground.mat
+- Assets/Art/Scences/GameAssets/Materials/mouth_mat.mat
+- Assets/Art/Scences/GameAssets/Materials/hair_mat.mat
+Dependencies:
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/mainscene/ui.ld
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/gameassets/models.ld
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/gameassets/shader.ld
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/mainscene/shader.ld

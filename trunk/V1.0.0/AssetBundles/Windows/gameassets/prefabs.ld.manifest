@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 3637934512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bd87938e9a1fcb672393779838cd621
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 573c6d3bd44a70ed850a5fb2c01960cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac5f1ebfdd9c34dc58ab53ce13ed9dfa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d5b628ac66854b528278ed07ce81c77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68b1f7f9fe4d84d6aaba030237c1d7c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81687037de6a4544a954c7a6a1205031, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c31f8bd4ab363d418e4fd95a9f51ecf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b81905a303421cb498b2be3ffebf5043, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/GameAssets/Prefabs/HorScroll.prefab
+- Assets/Art/Scences/GameAssets/Prefabs/floorCube1.prefab
+- Assets/Art/Scences/GameAssets/Prefabs/VertScroll.prefab
+- Assets/Art/Scences/GameAssets/Prefabs/EffectPortal.prefab
+- Assets/Art/Scences/GameAssets/Prefabs/EffectLaserFire.prefab
+- Assets/Art/Scences/GameAssets/Prefabs/EffectKnickMedal.prefab
+- Assets/Art/Scences/GameAssets/Prefabs/CircleImage.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/gameassets/models.ld
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/gameassets/materials.ld

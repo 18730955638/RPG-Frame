@@ -1,0 +1,13 @@
+WindowsStandalone
+679434211a3821406c1e14a1ce7b1456 Assembly-CSharp-firstpass.dll:RenderHeads.Media.AVProVideo.DisplayUGUI
+49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
+0b0399c4b7b49c440fa718ace4ac585a UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+eb1b98eae58d1c3cddd6ef4553520642 UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+a2313de45ed47f1a12bb2d80e8b2de54 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.HorizontalLayoutGroup
+b8f057a5d96b66234b3230a0d800dcf6 UnityEngine.UI.dll:UnityEngine.UI.Image
+6438f204cc20af0b50a73569c7b204f7 UnityEngine.UI.dll:UnityEngine.UI.Slider
+a4ef7c59ab7201ab109de36901ceb49b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:U3DEventFrame.MsgCenter
+064d043ce3798ade1b1c6020bbe4c3a5 Assembly-CSharp.dll:.MainOthers
+bd686333bb24a651707e15db08258767 Assembly-CSharp-firstpass.dll:RenderHeads.Media.AVProVideo.MediaPlayer

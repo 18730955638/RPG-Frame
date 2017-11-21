@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 896466157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e882317d55fd931ff5c2e1ebdf685ad4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cd0a5558493b0679e071c141fc729a3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/GameAssets/Textures/misaki_head_spec.tga
+- Assets/Art/Scences/GameAssets/Textures/FO_CLOTH1.tga
+- Assets/Art/Scences/GameAssets/Textures/FloorCube2.png
+- Assets/Art/Scences/GameAssets/Textures/body_sum.tga
+- Assets/Art/Scences/GameAssets/Textures/Ring.png
+- Assets/Art/Scences/GameAssets/Textures/yuko_head.tga
+- Assets/Art/Scences/GameAssets/Textures/MagicCircle.png
+- Assets/Art/Scences/GameAssets/Textures/correct.png
+- Assets/Art/Scences/GameAssets/Textures/Star.png
+- Assets/Art/Scences/GameAssets/Textures/FO_SKIN1.tga
+- Assets/Art/Scences/GameAssets/Textures/body_spec.tga
+- Assets/Art/Scences/GameAssets/Textures/yuko_head_spec.tga
+- Assets/Art/Scences/GameAssets/Textures/skybox.png
+- Assets/Art/Scences/GameAssets/Textures/FloorCube1.png
+- Assets/Art/Scences/GameAssets/Textures/FO_SKIN2.tga
+- Assets/Art/Scences/GameAssets/Textures/utc_spec.tga
+- Assets/Art/Scences/GameAssets/Textures/ENV2.tga
+- Assets/Art/Scences/GameAssets/Textures/body_normal.tga
+- Assets/Art/Scences/GameAssets/Textures/Core.png
+- Assets/Art/Scences/GameAssets/Textures/SimpleSky.png
+- Assets/Art/Scences/GameAssets/Textures/DEFAULT_NORMAL.tga
+- Assets/Art/Scences/GameAssets/Textures/yuko_head_normal.tga
+- Assets/Art/Scences/GameAssets/Textures/body_win.tga
+- Assets/Art/Scences/GameAssets/Textures/Medal.tga
+- Assets/Art/Scences/GameAssets/Textures/Light3.png
+- Assets/Art/Scences/GameAssets/Textures/FO_RIM1.tga
+- Assets/Art/Scences/GameAssets/Textures/misaki_head.tga
+- Assets/Art/Scences/GameAssets/Textures/utc_all2.tga
+- Assets/Art/Scences/GameAssets/Textures/unitychan_tile_alpha.tga
+- Assets/Art/Scences/GameAssets/Textures/Laser2.png
+- Assets/Art/Scences/GameAssets/Textures/misaki_head_normal.tga
+- Assets/Art/Scences/GameAssets/Textures/utc_nomal.tga
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3096080595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7ef8af57f287d3935b151b553e1135b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Art/Scences/MainScene/Scene/Main.unity
+Dependencies:
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/mainscene/ui.ld
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/mainscene/contenttemplate.ld

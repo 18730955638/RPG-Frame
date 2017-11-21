@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 3374185061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd852cfe8e607bcec6f61b439a493a46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a8f58515227f6b7b7155810b34cfedee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/CharaSkin.cg
+- Assets/Art/Scences/GameAssets/Models/Medal.FBX
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/readme.txt
+- Assets/Art/Scences/GameAssets/Models/Materials/yuko_head.mat
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/CharaMain.cg
+- Assets/Art/Scences/GameAssets/Models/Materials/unitychan_tile_alpha.mat
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader
+- Assets/Art/Scences/GameAssets/Models/Materials/body_sum.mat
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_hair.shader
+- Assets/Art/Scences/GameAssets/Models/Materials/No Name.mat
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader
+- Assets/Art/Scences/GameAssets/Models/yuko.FBX
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader
+- Assets/Art/Scences/GameAssets/Models/Medal.fbm/unitychan_tile_alpha.tga
+- Assets/Art/Scences/GameAssets/Models/floorCube1.FBX
+- Assets/Art/Scences/GameAssets/Models/SkyDome.fbx
+- Assets/Art/Scences/GameAssets/Models/UnityChanShader/Shader/CharaOutline.cg
+Dependencies:
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/mainscene/ui.ld

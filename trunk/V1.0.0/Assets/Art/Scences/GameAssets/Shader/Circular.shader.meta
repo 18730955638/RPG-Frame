@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fe568839ac74f473686b2641f55b9c4b
+timeCreated: 1508036019
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: gameassets/shader
+  assetBundleVariant: ld

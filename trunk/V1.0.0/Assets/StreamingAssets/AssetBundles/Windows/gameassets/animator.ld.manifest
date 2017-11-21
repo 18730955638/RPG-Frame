@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3458767098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cbb267df83d59279e9925dc5d38cca2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4c5a82347ebdfc04693c9733c20268d
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/GameAssets/Animator/Yuko.controller
+Dependencies:
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/gameassets/models.ld

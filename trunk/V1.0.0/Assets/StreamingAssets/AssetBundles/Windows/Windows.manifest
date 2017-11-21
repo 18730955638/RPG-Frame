@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2369146822
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mainscene/scene.u3d
+      Dependencies:
+        Dependency_0: mainscene/ui.ld
+        Dependency_1: mainscene/contenttemplate.ld
+    Info_1:
+      Name: gameassets/textures.ld
+      Dependencies: {}
+    Info_2:
+      Name: mainscene/ui.ld
+      Dependencies:
+        Dependency_0: gameassets/materials.ld
+    Info_3:
+      Name: gameassets/ui.ld
+      Dependencies: {}
+    Info_4:
+      Name: gameassets/models.ld
+      Dependencies:
+        Dependency_0: mainscene/ui.ld
+    Info_5:
+      Name: gameassets/shader.ld
+      Dependencies: {}
+    Info_6:
+      Name: gameassets/materials.ld
+      Dependencies:
+        Dependency_0: mainscene/ui.ld
+        Dependency_1: gameassets/models.ld
+        Dependency_2: gameassets/shader.ld
+        Dependency_3: mainscene/shader.ld
+    Info_7:
+      Name: mainscene/contenttemplate.ld
+      Dependencies:
+        Dependency_0: mainscene/ui.ld
+        Dependency_1: gameassets/ui.ld
+    Info_8:
+      Name: gameassets/prefabs.ld
+      Dependencies:
+        Dependency_0: gameassets/models.ld
+        Dependency_1: gameassets/materials.ld
+    Info_9:
+      Name: mainscene/config.ld
+      Dependencies: {}
+    Info_10:
+      Name: gameassets/animator.ld
+      Dependencies:
+        Dependency_0: gameassets/models.ld
+    Info_11:
+      Name: mainscene/shader.ld
+      Dependencies: {}

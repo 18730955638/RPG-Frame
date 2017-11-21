@@ -1,0 +1,36 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Art/Scences/MainScence/LitMapSignTex/LitMapSignTex.tpsheet
+- Assets/Art/Scences/MainScence/MainViewAndThingIcon/MainViewAndThingIcon.tpsheet
+- Assets/Art/Scences/MainScence/Menu/Menu.tpsheet
+- Assets/Art/Scences/MainScence/MouseCorsorTex/MouseCursor.tpsheet
+- Assets/Art/Scences/SelectCharacaterScence/ChaCreationTex/ChaCreationTex.tpsheet
+- Assets/Art/Scences/SelectCharacaterScence/MouseCorsorTex/MouseCursor.tpsheet
+- Assets/Art/Scences/WelcomeScence/MouseCorsorTex/MouseCursor.tpsheet
+- Assets/Art/Scences/WelcomeScence/WelcomeTex/WelcomeTex.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/Art/Scences/MainScence/LitMapSignTex/LitMapSignTex.png
+- Assets/Art/Scences/MainScence/MainViewAndThingIcon/MainViewAndThingIcon.png
+- Assets/Art/Scences/MainScence/Menu/Menu.png
+- Assets/Art/Scences/MainScence/MouseCorsorTex/MouseCursor.png
+- Assets/Art/Scences/SelectCharacaterScence/ChaCreationTex/ChaCreationTex.png
+- Assets/Art/Scences/SelectCharacaterScence/MouseCorsorTex/MouseCursor.png
+- Assets/Art/Scences/WelcomeScence/MouseCorsorTex/MouseCursor.png
+- Assets/Art/Scences/WelcomeScence/WelcomeTex/WelcomeTex.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

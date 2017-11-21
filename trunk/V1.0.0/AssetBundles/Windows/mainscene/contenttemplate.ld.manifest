@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2718355253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3e7e608099230bb95d56fd77060d373
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b92023b2f0e1ae3d8ea5018621fa68e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f17cdc186456a4469a139a104d2ca72, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 638c870cac4da414fba921606d504407, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/MainScene/ContentTemplate/SortingTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/TextTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/TextChoiceTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/LineMatchTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/VideoTemplaterr.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/ImageChoiceTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/ImageTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/SingleContainerTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/TypeSentenceTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/PageTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/VideoTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/JudgementTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/AudioTemplate.prefab
+- Assets/Art/Scences/MainScene/ContentTemplate/ContainerTemplate.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/mainscene/ui.ld
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/gameassets/ui.ld

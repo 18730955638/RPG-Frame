@@ -1,0 +1,106 @@
+ManifestFileVersion: 0
+CRC: 1308649712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0c4b35edb2a2d405c253bdadb18cf60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5915c1acc2dfb87b28031026f37da60d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 853051423, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/MainScene/UI/Prefabs/ContentArea.prefab
+- Assets/Art/Scences/MainScene/UI/Texture/Star.png
+- Assets/Art/Scences/MainScene/UI/Prefabs/RandomBtn.prefab
+- Assets/Art/Scences/MainScene/UI/Texture/Medal.tga
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u5168\u5C4Ficon.png"
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u64AD\u653E.png"
+- Assets/Art/Scences/MainScene/UI/Texture/DEFAULT_NORMAL.tga
+- Assets/Art/Scences/MainScene/UI/Texture/SimpleSky.png
+- Assets/Art/Scences/MainScene/UI/Texture/Core.png
+- Assets/Art/Scences/MainScene/UI/Materials/UIBackground.mat
+- Assets/Art/Scences/MainScene/UI/Texture/yuko_head_spec.tga
+- Assets/Art/Scences/MainScene/UI/Prefabs/Random.prefab
+- Assets/Art/Scences/MainScene/UI/Prefabs/AvatarCell.prefab
+- Assets/Art/Scences/MainScene/UI/Texture/FloorCube1.png
+- Assets/Art/Scences/MainScene/UI/Texture/correct.png
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u8FDB\u5EA6\u6761\u80CC\u666F.png"
+- Assets/Art/Scences/MainScene/UI/Prefabs/RandomView.prefab
+- Assets/Art/Scences/MainScene/UI/Texture/misaki_head.tga
+- Assets/Art/Scences/MainScene/UI/Prefabs/Awards.prefab
+- Assets/Art/Scences/MainScene/UI/Texture/Laser2.png
+- Assets/Art/Scences/MainScene/UI/Texture/body_normal.tga
+- Assets/Art/Scences/MainScene/UI/Texture/yuko_head_normal.tga
+- Assets/Art/Scences/MainScene/UI/Texture/body_spec.tga
+- Assets/Art/Scences/MainScene/UI/Texture/unitychan_tile_alpha.tga
+- Assets/Art/Scences/MainScene/UI/Texture/utc_nomal.tga
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u97F3\u91CF\u80CC\u666F.png"
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u97F3\u91CF\u8C03\u8282-\u70B9.png"
+- Assets/Art/Scences/MainScene/UI/Texture/skybox.png
+- Assets/Art/Scences/MainScene/UI/Texture/body_win.tga
+- Assets/Art/Scences/MainScene/UI/Texture/MagicCircle.png
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u8FDB\u5EA6\u6761.png"
+- Assets/Art/Scences/MainScene/UI/Texture/FO_RIM1.tga
+- Assets/Art/Scences/MainScene/UI/Texture/ENV2.tga
+- Assets/Art/Scences/MainScene/UI/Texture/Ring.png
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u97F3\u91CF\u8C03\u8282-\u6761.png"
+- Assets/Art/Scences/MainScene/UI/Texture/FloorCube2.png
+- Assets/Art/Scences/MainScene/UI/Prefabs/Runner.prefab
+- Assets/Art/Scences/MainScene/UI/Prefabs/Ranking.prefab
+- Assets/Art/Scences/MainScene/UI/Prefabs/MenuUI.prefab
+- Assets/Art/Scences/MainScene/UI/Texture/yuko_head.tga
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u6682\u505C.png"
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u89C6\u9891.png"
+- Assets/Art/Scences/MainScene/UI/Texture/FO_CLOTH1.tga
+- Assets/Art/Scences/MainScene/UI/Texture/body_sum.tga
+- Assets/Art/Scences/MainScene/UI/Texture/FO_SKIN1.tga
+- Assets/Art/Scences/MainScene/UI/Texture/misaki_head_spec.tga
+- Assets/Art/Scences/MainScene/UI/Texture/utc_all2.tga
+- Assets/Art/Scences/MainScene/UI/Texture/utc_spec.tga
+- "Assets/Art/Scences/MainScene/UI/Texture/tex/\u97F3\u91CF.png"
+- Assets/Art/Scences/MainScene/UI/Texture/misaki_head_normal.tga
+- Assets/Art/Scences/MainScene/UI/Texture/Light3.png
+- Assets/Art/Scences/MainScene/UI/Texture/FO_SKIN2.tga
+Dependencies:
+- C:/Users/Administrator/Desktop/trunk/trunk/V1.0.0/AssetBundles/Windows/gameassets/materials.ld

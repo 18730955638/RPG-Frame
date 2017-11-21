@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1720620374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c47e9fe8e504d8384e2ef1979bc504c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/GameAssets/UI/triangle.jpg
+- Assets/Art/Scences/GameAssets/UI/avatar.jpg
+- Assets/Art/Scences/GameAssets/UI/audition.png
+Dependencies: []

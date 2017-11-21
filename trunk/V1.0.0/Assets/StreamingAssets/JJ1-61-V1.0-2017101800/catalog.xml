@@ -1,0 +1,218 @@
+﻿<?xml version="1.0"?>
+<root> 
+   <catalog id="1" name="1" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="210" y1="-95" x2="810" y2="-355" fontSize="96" alignment="MiddleCenter" color="#000000">Lesson  17</resource>
+      <resource rid="2" layer="2" type="text" x1="270" y1="-410" x2="750" y2="-675" fontSize="90" alignment="MiddleCenter" color="#000000">I’m Lost</resource>
+    </question>
+  </catalog>
+
+
+  <catalog id="2" name="2" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="20" y1="-5" x2="1005" y2="-115" fontSize="48" alignment="MiddleCenter" color="#000000">听音，判断图片与所给音频是否相符。</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="120" y1="-130" x2="190" y2="-200"/>
+      <resource rid="3" layer="3" type="image" path="1.png" x1="355" y1="-130" x2="670" y2="-595"/>
+	  <resource rid="4" layer="4" type="video" path="2.png" x1="200" y1="-130" x2="670" y2="-595"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="3" name="3" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="20" y1="-5" x2="1005" y2="-115" fontSize="48" alignment="MiddleCenter" color="#000000">听音，判断图片与所给音频是否相符。</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="120" y1="-130" x2="190" y2="-200"/>
+      <resource rid="3" layer="3" type="image" path="2.png" x1="195" y1="-185" x2="830" y2="-585"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="4" name="4" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="20" y1="-5" x2="1005" y2="-115" fontSize="48" alignment="MiddleCenter" color="#000000">听音，判断图片与所给音频是否相符。</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="120" y1="-130" x2="190" y2="-200"/>
+      <resource rid="3" layer="3" type="image" path="3.png" x1="165" y1="-220" x2="845" y2="-525"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="5" name="5" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="20" y1="-5" x2="1005" y2="-115" fontSize="48" alignment="MiddleCenter" color="#000000">听音，判断图片与所给音频是否相符。</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="120" y1="-130" x2="190" y2="-200"/>
+      <resource rid="3" layer="3" type="image" path="4.png" x1="275" y1="-150" x2="745" y2="-575"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="6" name="6" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="65" y1="-10" x2="955" y2="-195" fontSize="48" alignment="MiddleCenter" color="#000000">大声读出卡片上数字对应的英文。</resource>
+      <resource rid="2" layer="12" type="image" path="5.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="3" layer="11" type="image" path="5-1.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="4" layer="10" type="image" path="5-2.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="5" layer="9" type="image" path="5-3.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="6" layer="8" type="image" path="5-4.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="7" layer="7" type="image" path="5-5.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="8" layer="6" type="image" path="5-6.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="9" layer="5" type="image" path="5-7.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="10" layer="4" type="image" path="5-8.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="11" layer="3" type="image" path="5-9.png" x1="255" y1="-225" x2="770" y2="-555"/>
+      <resource rid="12" layer="2" type="image" path="5-10.png" x1="255" y1="-225" x2="770" y2="-555"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="7" name="7" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="4" type="text" x1="305" y1="-475" x2="715" y2="-765" fontSize="100" alignment="MiddleCenter" color="#000000">light</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="275" y1="-595" x2="345" y2="-665"/>
+      <resource rid="3" layer="3" type="image" path="6-1.png" x1="340" y1="-60" x2="685" y2="-510"/>
+      <resource rid="4" layer="1" type="image" path="6-2.png" x1="395" y1="-565" x2="630" y2="-690"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="8" name="8" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="1" type="text" x1="190" y1="-5" x2="835" y2="-110" fontSize="48" alignment="MiddleCenter" color="#000000">根据图片，补全单词。</resource>
+      <resource rid="2" layer="2" type="image" path="7.png" x1="340" y1="-130" x2="685" y2="-580"/>
+
+      <resource rid="3" layer="3" type="text" x1="245" y1="-505" x2="375" y2="-770" fontSize="100" alignment="MiddleCenter" color="#000000">l</resource>
+      <resource rid="4" layer="4" type="text" x1="345" y1="-505" x2="475" y2="-770" fontSize="100" alignment="MiddleCenter" color="#000000">i</resource>
+      <resource rid="5" layer="5" type="text" x1="425" y1="-505" x2="590" y2="-790" fontSize="100" alignment="MiddleCenter" color="#000000"></resource>
+      <resource rid="6" layer="6" type="text" x1="530" y1="505" x2="685" y2="-770" fontSize="100" alignment="MiddleCenter" color="#000000"></resource>
+      <resource rid="7" layer="7" type="text" x1="630" y1="-505" x2="780" y2="-770" fontSize="100" alignment="MiddleCenter" color="#000000">t</resource>
+    </question>
+  </catalog>
+
+
+  <catalog id="9" name="9" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="4" type="text" x1="340" y1="-455" x2="685" y2="-725" fontSize="100" alignment="MiddleCenter" color="#000000">red</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="275" y1="-575" x2="345" y2="-645"/>
+      <resource rid="3" layer="3" type="image" path="8-1.png" x1="350" y1="-100" x2="680" y2="-430"/>
+      <resource rid="4" layer="1" type="image" path="8-2.png" x1="395" y1="-545" x2="632" y2="-670"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="10" name="10" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="2" type="text" x1="45" y1="-30" x2="980" y2="-175" fontSize="48" alignment="MiddleCenter" color="#000000">根据中文，拼写出对应的英文单词。</resource>
+      <resource rid="2" layer="2" type="text" x1="315" y1="-185" x2="710" y2="-475" fontSize="100" alignment="MiddleCenter" color="#00cc07">红色</resource>
+      <resource rid="3" layer="4" type="text" x1="400" y1="-475" x2="625" y2="-645" fontSize="100" alignment="MiddleCenter" color="#000000">red</resource>
+      <resource rid="4" layer="1" type="image" path="9.png" x1="360" y1="-595" x2="660" y2="-600"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="11" name="11" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="4" type="text" x1="335" y1="-550" x2="685" y2="-715" fontSize="100" alignment="MiddleCenter" color="#000000">green</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="275" y1="-595" x2="345" y2="-665"/>
+      <resource rid="3" layer="3" type="image" path="10-1.png" x1="390" y1="-65" x2="635" y2="-480"/>
+      <resource rid="4" layer="1" type="image" path="10-2.png" x1="355" y1="-565" x2="670" y2="-690"/>
+    </question>
+  </catalog>
+
+
+
+  <catalog id="12" name="12" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="2" type="text" x1="45" y1="-30" x2="980" y2="-175" fontSize="48" alignment="MiddleCenter" color="#000000">根据中文，拼写出对应的英文单词。</resource>
+      <resource rid="2" layer="2" type="text" x1="315" y1="-185" x2="710" y2="-480" fontSize="100" alignment="MiddleCenter" color="#00cc07">绿色</resource>
+      <resource rid="3" layer="4" type="text" x1="350" y1="-495" x2="675" y2="-660" fontSize="100" alignment="MiddleCenter" color="#000000">green</resource>
+      <resource rid="4" layer="1" type="image" path="11.png" x1="360" y1="-595" x2="660" y2="-600"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="13" name="13" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="4" type="text" x1="325" y1="-505" x2="715" y2="-695" fontSize="100" alignment="MiddleCenter" color="#000000">yellow</resource>
+      <resource rid="2" layer="2" type="audio" path="1.mp3" x1="275" y1="-575" x2="345" y2="-645"/>
+      <resource rid="3" layer="3" type="image" path="12-1.png" x1="370" y1="-85" x2="655" y2="-455"/>
+      <resource rid="4" layer="1" type="image" path="12-2.png" x1="360" y1="-545" x2="680" y2="-670"/>
+    </question>
+  </catalog>
+
+
+
+  <catalog id="14" name="14" time="2000" baseWidth="1024" medal="" playGame="false">
+    <question questionType="typeSentence" >
+      <resource rid="1" layer="1" type="text" x1="45" y1="-30" x2="980" y2="-175" fontSize="48" alignment="MiddleCenter" color="#000000">根据中文，拼写出对应的英文单词。</resource>
+      <resource rid="2" layer="2" type="text" x1="315" y1="-185" x2="710" y2="-480" fontSize="100" alignment="MiddleCenter" color="#00cc07">黄色</resource>
+      <resource rid="3" layer="3" type="image" path="13-1.png" x1="200" y1="-500" x2="305" y2="-645"/>
+      <resource rid="4" layer="4" type="image" path="13-2.png" x1="305" y1="-500" x2="410" y2="-645"/>
+      <resource rid="5" layer="5" type="image" path="13-3.png" x1="405" y1="-500" x2="515" y2="-645"/>
+      <resource rid="6" layer="6" type="image" path="13-4.png" x1="510" y1="-500" x2="615" y2="-645"/>
+      <resource rid="7" layer="7" type="image" path="13-5.png" x1="615" y1="-500" x2="720" y2="-645"/>
+      <resource rid="8" layer="8" type="image" path="13-6.png" x1="720" y1="-500" x2="825" y2="-645"/>
+      <resource rid="9" layer="9" type="text" x1="200" y1="-515" x2="305" y2="-640" fontSize="100" alignment="MiddleCenter" color="#000000">y</resource>
+      <resource rid="10" layer="10" type="text" x1="305" y1="-515" x2="405" y2="-625" fontSize="100" alignment="MiddleCenter" color="#000000">e</resource>
+      <resource rid="11" layer="1" type="text" x1="425" y1="-495" x2="495" y2="-625" fontSize="100" alignment="MiddleCenter" color="#000000">l</resource>
+      <resource rid="12" layer="12" type="text" x1="530" y1="-495" x2="600" y2="-625" fontSize="100" alignment="MiddleCenter" color="#000000">l</resource>
+      <resource rid="13" layer="13" type="text" x1="615" y1="515" x2="720" y2="-625" fontSize="100" alignment="MiddleCenter" color="#000000">o</resource>
+      <resource rid="14" layer="14" type="text" x1="710" y1="-515" x2="835" y2="-625" fontSize="100" alignment="MiddleCenter" color="#000000">w</resource>
+    </question>
+  </catalog>
+
+
+  <catalog id="15" name="15" time="2000" baseWidth="1024" medal="" playGame="false">
+    <resource rid="1" layer="1" type="text" x1="45" y1="-30" x2="980" y2="-175" fontSize="48" alignment="MiddleCenter" color="#000000">听音，选出与所给音频相符的图片。</resource>
+    <resource rid="2" layer="2" type="audio" path="1.mp3" x1="145" y1="-185" x2="215" y2="-255"/>
+    <resource rid="3" layer="3" type="text" x1="90" y1="-450" x2="185" y2="-535" fontSize="72" alignment="MiddleCenter" color="#000000">A</resource>
+    <resource rid="4" layer="4" type="text" x1="400" y1="-450" x2="485" y2="-535" fontSize="72" alignment="MiddleCenter" color="#000000">B</resource>
+    <resource rid="5" layer="5" type="text" x1="685" y1="-450" x2="775" y2="-535" fontSize="72" alignment="MiddleCenter" color="#000000">C</resource>
+    <question questionType="single-choice" anser="3" >
+      <resource rid="6" layer="6" type="image-choice" path="14-1png" x1="190" y1="-395" x2="335" y2="-545"/>
+      <resource rid="7" layer="7" type="image-choice" path="14-2.png" x1="495" y1="-405" x2="590" y2="-590"/>
+      <resource rid="8" layer="8" type="image-choice" path="14-3.png" x1="785" y1="-370" x2="915" y2="-590"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="16" name="16" time="2000" baseWidth="1024" medal="" playGame="false">
+    <resource rid="1" layer="1" type="text" x1="115" y1="-30" x2="910" y2="-175" fontSize="48" alignment="MiddleCenter" color="#000000">选出与所给单词对应的图片。</resource>
+    <resource rid="2" layer="2" type="text" x1="350" y1="-195" x2="675" y2="-360" fontSize="100" alignment="MiddleCenter" color="#000000">green</resource>
+    <resource rid="3" layer="3" type="text" x1="90" y1="-505" x2="185" y2="-575" fontSize="72" alignment="MiddleCenter" color="#000000">A</resource>
+    <resource rid="4" layer="4" type="text" x1="400" y1="-505" x2="485" y2="-575" fontSize="72" alignment="MiddleCenter" color="#000000">B</resource>
+    <resource rid="5" layer="5" type="text" x1="685" y1="-505" x2="775" y2="-575" fontSize="72" alignment="MiddleCenter" color="#000000">C</resource>
+    <question questionType="single-choice" anser="3" >
+      <resource rid="6" layer="6" type="image-choice" path="15-1png" x1="190" y1="-465" x2="335" y2="-650"/>
+      <resource rid="7" layer="7" type="image-choice" path="15-2.png" x1="490" y1="-455" x2="630" y2="-605"/>
+      <resource rid="8" layer="8" type="image-choice" path="15-3.png" x1="785" y1="-430" x2="915" y2="-650"/>
+    </question>
+  </catalog>
+
+
+  <catalog id="17" name="17" time="2000" baseWidth="1024" medal="" playGame="false">
+    <resource rid="1" layer="1" type="text" x1="45" y1="-5" x2="980" y2="-120" fontSize="48" alignment="MiddleCenter" color="#000000">看图，将左右两边的内容进行连线。 </resource>
+    <question questionType="line-match" anwser="2,4;3,5" >
+      <resource rid="2" layer="2" type="line-match" x1="5" y1="-225" x2="510" y2="-355">A. Close the window.</resource>
+      <resource rid="3" layer="3" type="line-match" x1="5" y1="-540" x2="510" y2="-640">B. Open the window.</resource>
+      <resource rid="5" layer="4" type="line-match" path="17-1.png" x1="600" y1="-190" x2="960" y2="-390"/>
+      <resource rid="4" layer="5" type="line-match" path="17-2.png" x1="605" y1="-465" x2="955" y2="-670"/>
+    </question>
+  </catalog>
+
+
+   <catalog id="18" name="18" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="40" y1="-10" x2="985" y2="-155" fontSize="54" alignment="MiddleCenter" color="#d50000">Red is stop! Yellow is wait! Green is go!</resource>
+      <resource rid="2" layer="2" type="video" path="1.mp4" x1="115" y1="-175" x2="910" y2="-630"/>
+     </question>
+  </catalog>
+
+
+ <catalog id="19" name="19" time="2000" baseWidth="1024" medal="" playGame="false">
+     <question questionType="judgement" anwser="1" >
+      <resource rid="1" layer="1" type="text" x1="40" y1="-10" x2="985" y2="-155" fontSize="54" alignment="MiddleCenter" color="#d50000">Red is stop! Yellow is wait! Green is go!</resource>
+      <resource rid="2" layer="2" type="video" path="1.mp4" x1="115" y1="-175" x2="910" y2="-630"/>
+    </question>
+  </catalog>
+
+    
+
+</root>
